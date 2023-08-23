@@ -26,7 +26,7 @@
 
 ## HELLO-RAILS-BACKEND <a name="about-project"></a>
 
-A rail application built to create api endpoints which will become consumed by [HELLO-REACT-FRONTEND]()
+A rail application built to create api endpoints which will become consumed by [HELLO-REACT-FRONTEND](https://github.com/anbehindY/hello-react-frontend)
 
 ## 🛠 Built With <a name="built-with"></a>
 
